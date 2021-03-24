@@ -6,10 +6,10 @@
 
 ```const randomID = require('@mwladyka/createid');```
 
-console.log(randomID(10)); //to generate random id
+```randomId(); //to generate random id```
 
 # INSTALATION
 
-yarn add @mwladyka/createid
+```yarn add @mwladyka/createid```
 
-or npm i @mwladyka/createid
+or ```npm i @mwladyka/createid```
