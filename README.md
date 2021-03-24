@@ -1,15 +1,15 @@
 # @mwladyka/createid
 
-This package is to build long, random string with numbers and letters
+```This package is to build long, random string with numbers and letters```
 
-#USAGE
+# USAGE
 
-const randomID = require('@mwladyka/createid');
+```const randomID = require('@mwladyka/createid');```
 
-console.log(randomID(10)); //to generate random id
+```randomId(); //to generate random id```
 
-#INSTALATION
+# INSTALATION
 
-yarn add @mwladyka/createid
+```yarn add @mwladyka/createid```
 
-or npm i @mwladyka/createid
+or ```npm i @mwladyka/createid```
